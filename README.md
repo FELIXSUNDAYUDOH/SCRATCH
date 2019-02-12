@@ -13,8 +13,11 @@ c=50;
 d=100;
 
 System.out.println("THIS value is "+a);
+
 System.out.println("THIS value is "+b);
+
 System.out.println("THIS value is "+c);
+
 System.out.println("THIS value is "+d);
 
 }
